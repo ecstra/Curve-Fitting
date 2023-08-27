@@ -1,4 +1,4 @@
-# Curve-Fitting
+# Curve-Fitting by Automa
 
  - Fitting 3 curves and plotting them on the same graph
 #
